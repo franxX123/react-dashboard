@@ -140,7 +140,7 @@ const Sidebar = () => {
 
             <Item
               title="Manage Team"
-              to="/teams"
+              to="/team"
               icon={<PeopleOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
@@ -148,14 +148,14 @@ const Sidebar = () => {
 
             <Item
               title="Contacts"
-              to="/contact"
+              to="/contacts"
               icon={<ContactsOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
             />
 
             <Item
-              title="Invoices Balances"
+              title="Invoice Balances"
               to="/invoices"
               icon={<ReceiptOutlinedIcon />}
               selected={selected}
