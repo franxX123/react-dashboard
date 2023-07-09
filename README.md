@@ -1,3 +1,6 @@
+# Description
+React Dashboard is a visual analytics dashboard that uses graphs, grids, and charts to some important patterns in the data to help businesses gain valuable insights about their users and business-related activities. This project leverages JavaScript as the primary programming language along with many enterprise level libraries such as React (framework), Material UI (styling), Formik and Yup (validation and form submission), Nivo Charts (data visualization), and Full Calendar (calendar component).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
