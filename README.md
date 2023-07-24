@@ -1,5 +1,5 @@
 # Description
-React Dashboard is a visual analytics dashboard that uses graphs, grids, and charts to see important data patterns in business-related data to gain valuable insights and help leaders make more informed decisions. This project leverages JavaScript as the primary programming language along with many enterprise level libraries such as React (framework), Material UI (styling), Formik and Yup (validation and form submission), Nivo Charts (data visualization), and Full Calendar (calendar component).
+Frank's Pizzeria is a visual analytics dashboard that uses graphs, grids, and charts to see important data patterns in business-related data to gain valuable insights and help leaders make more informed decisions. This project leverages JavaScript as the primary programming language along with many enterprise level libraries such as React (framework), Material UI (styling), Formik and Yup (validation and form submission), Nivo Charts (data visualization), and Full Calendar (calendar component).
 
 ![dashboard](https://github.com/franxX123/react-dashboard/assets/38338252/ed280424-5272-47b2-a396-dbdb935e1364)
 
